@@ -1,0 +1,24 @@
+{
+  "name": "seecs-elections",
+  "version": "1.0.0",
+  "description": "An express based application for NUST batch president elections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okHadi/seecs-elections.git"
+  },
+  "author": "Hadi Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okHadi/seecs-elections/issues"
+  },
+  "homepage": "https://github.com/okHadi/seecs-elections#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nedb": "^1.8.0",
+    "nodemon": "^2.0.20"
+  }
+}
